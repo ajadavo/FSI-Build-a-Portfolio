@@ -3,9 +3,11 @@
 img{
 
     body: color turquoise
-    border-radius: 30px
-    
 }
+  img{  border-radius: 25px
+}
+    
+
 img{
     border-color: green
 }
